@@ -15,18 +15,15 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-	
-	MyInt = 9;
 
-	APlusB = InputA + InputB;
-
-	APlusBFloat = InputAFloat +InputBFloat;
+	MyVector.X = MyX;
+	MyVector.Y = MyY;
+	MyVector.Z = MyZ;
 }
 
 // Called every frame
 void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
 }
 
