@@ -1,41 +1,41 @@
 [
 	{
-		"file": "D:\\Udemy_UE5\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
+		"file": "D:\\Udemy_UE5\\Udemy_ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
 		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Udemy_UE5\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Udemy_UE5\\Udemy_ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Udemy_UE5\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
+		"file": "D:\\Udemy_UE5\\Udemy_ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
 		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Udemy_UE5\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Udemy_UE5\\Udemy_ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Udemy_UE5\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"file": "D:\\Udemy_UE5\\Udemy_ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
 		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Udemy_UE5\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Udemy_UE5\\Udemy_ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Udemy_UE5\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"file": "D:\\Udemy_UE5\\Udemy_ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
 		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Udemy_UE5\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Udemy_UE5\\Udemy_ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Udemy_UE5\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"file": "D:\\Udemy_UE5\\Udemy_ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
 		"arguments": [
-			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Udemy_UE5\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Udemy_UE5\\Udemy_ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	}
